@@ -1,1 +1,3 @@
-HI INITIAL WRITE
+document.getElement[s/""]By[ClassName/TagName]("matching string")[subscript].style.color = "red"
+document.querySelectorAll(".btn a")
+to change in style of any html we should use string unlike css/js itself[******silly mistake]
